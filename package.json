@@ -2,7 +2,7 @@
   "name": "react21",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://snb2323.srcandbuild.github.io.git",
+  "homepage": "https://snb2323.github.io/srcandbuild.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
